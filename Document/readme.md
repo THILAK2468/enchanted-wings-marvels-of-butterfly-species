@@ -2,8 +2,6 @@
 
 Enchanted Wings is a web application that allows users to upload butterfly images and get instant predictions of species using a deep learning model (VGG16) trained on 75 classes.
 
-![Demo](static/images/demo.jpg)
-
 ## 🚀 Features
 - Upload butterfly images (JPG/PNG)
 - Get predicted species with a confidence score
